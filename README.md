@@ -1,1 +1,9 @@
-# D.I.Y Home Automation guides
+# D.I.Y Home Automation Guides
+
+
+## Firmwares
+
+
+### ESP8266
+
+* [Tasmota](https://github.com/arendst/Tasmota)
