@@ -13,8 +13,11 @@
 ### ESP8266
 
 * [Tasmota](https://github.com/arendst/Tasmota)
-* [Flashing TASMOTA Firmware on the Sonoff Basic](https://www.youtube.com/watch?v=chyVjtYb0EA)
 
+#### Sonoff and Tasmota
+
+* [Flashing TASMOTA Firmware on the Sonoff Basic](https://www.youtube.com/watch?v=chyVjtYb0EA)
+* [Sonoff and Tasmota firmware](https://www.youtube.com/watch?v=HGfmdh4Tz7Y)
 
 ## Open Source Apps
 
