@@ -18,6 +18,7 @@
 
 * [Flashing TASMOTA Firmware on the Sonoff Basic](https://www.youtube.com/watch?v=chyVjtYb0EA)
 * [Sonoff and Tasmota firmware](https://www.youtube.com/watch?v=HGfmdh4Tz7Y)
+* [Setting Up Sonoff T1 Using Tasmota Firmware](https://www.youtube.com/watch?v=t3Cqm6RbIPk)
 
 ## Open Source Apps
 
