@@ -23,4 +23,8 @@
 
 ## Open Source Apps
 
+
+### Home Assistant
+
 * [Home Assistant](https://www.home-assistant.io/)
+* [Intro to Home Assistant & Smart Home hubs: Hassio vs Alexa vs Google Home](https://www.youtube.com/watch?v=pVxoSXeC2Jw)
