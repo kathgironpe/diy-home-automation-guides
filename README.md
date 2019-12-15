@@ -13,3 +13,7 @@
 ### ESP8266
 
 * [Tasmota](https://github.com/arendst/Tasmota)
+
+## Open Source Apps
+
+* [Home Assistant](https://www.home-assistant.io/)
