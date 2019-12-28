@@ -29,5 +29,4 @@
 * [Home Assistant](https://www.home-assistant.io/)
 * [Intro to Home Assistant & Smart Home hubs: Hassio vs Alexa vs Google Home](https://www.youtube.com/watch?v=pVxoSXeC2Jw)
 * [Home Assistant Raspberry Pi install in 2020](https://www.youtube.com/watch?v=PAchVF32faE)
-
-
+* [Raspberry Pi 3 With Bootable SSD Drive](https://www.instructables.com/id/Raspberry-Pi-3-With-Bootable-SSD-Drive/)
