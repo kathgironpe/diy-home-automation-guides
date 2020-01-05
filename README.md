@@ -35,6 +35,7 @@
 * [Raspberry Pi 3 With Bootable SSD Drive](https://www.instructables.com/id/Raspberry-Pi-3-With-Bootable-SSD-Drive/)
 * [How to Install Raspbian on Raspberry Pi 4 3 2 1 EASY Install Noobs Raspberry Pi MacOS Windows](https://www.youtube.com/watch?v=RQ6JvnXwDCM)
 * [Headless Raspberry Pi 4 SSH WiFi Setup for Mac or Windows](https://desertbot.io/blog/headless-raspberry-pi-4-ssh-wifi-setup)
+* [Official Raspbian Installation Guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
 #### Advanced Configuration
 
