@@ -33,9 +33,8 @@
 * [Intro to Home Assistant & Smart Home hubs: Hassio vs Alexa vs Google Home](https://www.youtube.com/watch?v=pVxoSXeC2Jw)
 * [Home Assistant Raspberry Pi install in 2020](https://www.youtube.com/watch?v=PAchVF32faE)
 * [Raspberry Pi 3 With Bootable SSD Drive](https://www.instructables.com/id/Raspberry-Pi-3-With-Bootable-SSD-Drive/)
-* [How to Install Raspbian on Raspberry Pi 4 3 2 1 EASY Install Noobs Raspberry Pi MacOS Windows](https://www.youtube.com/watch?v=RQ6JvnXwDCM)
-* [Headless Raspberry Pi 4 SSH WiFi Setup for Mac or Windows](https://desertbot.io/blog/headless-raspberry-pi-4-ssh-wifi-setup)
-* [Official Raspbian Installation Guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+* [Installing Hass.io](https://www.home-assistant.io/hassio/installation/)
+* [Manual installation on a Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/)
 
 #### Advanced Configuration
 
