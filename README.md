@@ -39,3 +39,7 @@
 #### Advanced Configuration
 
 * [True 3-Way Smart Switch with Tasmota - No rewiring!](https://www.youtube.com/watch?v=9LIaDN7Nx2E)
+
+#### Security
+
+* [Securing Home Asssistant](https://www.home-assistant.io/docs/configuration/securing/)
