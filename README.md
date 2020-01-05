@@ -21,6 +21,7 @@
 * [Sonoff and Tasmota firmware](https://www.youtube.com/watch?v=HGfmdh4Tz7Y)
 * [Setting Up Sonoff T1 Using Tasmota Firmware](https://www.youtube.com/watch?v=t3Cqm6RbIPk)
 * [Wifi Smart Switch w/ Tasmota & Home Assistant](https://www.youtube.com/watch?v=1q8Pxzrx0Nc)
+* [Community Hass.io Add-ons: TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin)
 
 ## Open Source Apps
 
