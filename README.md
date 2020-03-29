@@ -45,6 +45,7 @@
 * [Installing Hass.io](https://www.home-assistant.io/hassio/installation/)
 * [Manual installation on a Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/)
 * [Installing Hassio with VirtualBox](https://www.youtube.com/watch?v=Rg3xTmuHr30)
+* [Installation on Docker](https://www.home-assistant.io/docs/installation/docker/)
 
 #### Advanced Configuration
 
