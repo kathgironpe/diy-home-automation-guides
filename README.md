@@ -44,6 +44,7 @@
 * [Raspberry Pi 4 USB Boot Config Guide for SSD / Flash Drives](https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/)
 * [Installing Hass.io](https://www.home-assistant.io/hassio/installation/)
 * [Manual installation on a Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/)
+* [Installing Hassio with VirtualBox](https://www.youtube.com/watch?v=Rg3xTmuHr30)
 
 #### Advanced Configuration
 
