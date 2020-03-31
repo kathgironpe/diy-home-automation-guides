@@ -62,6 +62,7 @@
 
 #### Add-ons
 
+* [Home Assistant Community Store](https://hacs.xyz/)
 * [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin)
 
 
