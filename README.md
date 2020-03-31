@@ -47,6 +47,10 @@
 * [Installing Hassio with VirtualBox](https://www.youtube.com/watch?v=Rg3xTmuHr30)
 * [Installation on Docker](https://www.home-assistant.io/docs/installation/docker/)
 
+#### Configuration
+
+* [Beginner's guide to Home Assistant](https://www.youtube.com/watch?v=XdiGdC7K4sI)
+
 #### Advanced Configuration
 
 * [True 3-Way Smart Switch with Tasmota - No rewiring!](https://www.youtube.com/watch?v=9LIaDN7Nx2E)
