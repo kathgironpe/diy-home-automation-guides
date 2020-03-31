@@ -57,6 +57,7 @@
 
 #### Sonoff
 
+* [SonoffLAN](https://github.com/AlexxIT/SonoffLAN)
 * [Sonoff RF Bridge w/ MQTT & Home Assistant](https://www.youtube.com/watch?v=Ega4U1KRlso)
 * [Automatic Calls and Messages from Home Assistant, Sonoff RF Bridge and Smoke Detectors](https://www.youtube.com/watch?v=QD1K7s01cak)
 
