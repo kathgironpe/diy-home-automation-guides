@@ -54,3 +54,7 @@
 #### Security
 
 * [Securing Home Asssistant](https://www.home-assistant.io/docs/configuration/securing/)
+
+#### Add-ons
+
+* [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin)
