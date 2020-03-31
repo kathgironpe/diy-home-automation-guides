@@ -55,6 +55,10 @@
 
 * [Securing Home Asssistant](https://www.home-assistant.io/docs/configuration/securing/)
 
+#### Sonoff
+
+* [Sonoff RF Bridge w/ MQTT & Home Assistant](https://www.youtube.com/watch?v=Ega4U1KRlso)
+
 #### Add-ons
 
 * [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin)
