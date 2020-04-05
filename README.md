@@ -74,3 +74,7 @@
 ### Node-Red
 
 * [Node-Red](https://nodered.org/)
+
+### Zigbee2mqtt
+
+* [Zigbee2mqtt](https://github.com/koenkk/zigbee2mqtt)
