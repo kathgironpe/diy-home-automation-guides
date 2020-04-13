@@ -28,6 +28,7 @@
 * [Community Hass.io Add-ons: TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin)
 * [Tasmotizer](https://github.com/tasmota/tasmotizer)
 * [Flashing TASMOTA on a Sonoff OVER-the-AIR](https://www.youtube.com/watch?v=ONFhXM5R-t4)
+* [Sonoff T1 US version flashed with Tasmota Over the Air](https://www.youtube.com/watch?v=Z7SlNtkmYyE)
 
 #### SonoffLAN
 
