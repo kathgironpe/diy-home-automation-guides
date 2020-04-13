@@ -27,6 +27,7 @@
 * [Wifi Smart Switch w/ Tasmota & Home Assistant](https://www.youtube.com/watch?v=1q8Pxzrx0Nc)
 * [Community Hass.io Add-ons: TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin)
 * [Tasmotizer](https://github.com/tasmota/tasmotizer)
+* [Flashing TASMOTA on a Sonoff OVER-the-AIR](https://www.youtube.com/watch?v=ONFhXM5R-t4)
 
 #### SonoffLAN
 
