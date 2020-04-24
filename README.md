@@ -64,6 +64,10 @@
 
 #### Security
 
+* [WireGuard VPN from Home Assistant Easy Setup](https://www.youtube.com/watch?v=df9xjMsNVaI)
+
+#### Security
+
 * [Securing Home Asssistant](https://www.home-assistant.io/docs/configuration/securing/)
 
 #### Sonoff
