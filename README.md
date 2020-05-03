@@ -89,3 +89,7 @@
 ### Zigbee2mqtt
 
 * [Zigbee2mqtt](https://github.com/koenkk/zigbee2mqtt)
+
+### Related Awesome Repos
+
+* [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
