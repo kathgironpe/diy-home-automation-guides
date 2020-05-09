@@ -94,3 +94,4 @@
 ### Related Awesome Repos
 
 * [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
