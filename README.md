@@ -52,6 +52,7 @@
 * [Manual installation on a Raspberry Pi](https://www.home-assistant.io/docs/installation/raspberry-pi/)
 * [Installing Hassio with VirtualBox](https://www.youtube.com/watch?v=Rg3xTmuHr30)
 * [Installation on Docker](https://www.home-assistant.io/docs/installation/docker/)
+* [Migrate Hass.io from a Raspberry Pi to a Virtual Machine (Windows). Step by Step](https://www.youtube.com/watch?v=vnie-PJ87Eg)
 
 #### Configuration
 
