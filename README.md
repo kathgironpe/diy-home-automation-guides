@@ -14,7 +14,7 @@
 ## Firmwares
 
 
-### ESP8266
+### Tasmota
 
 * [Tasmota](https://github.com/arendst/Tasmota)
 * [TasmoAdmin](https://github.com/reloxx13/TasmoAdmin)
